@@ -569,6 +569,7 @@ zigbee_handlers = {
 },
   sub_drivers = { lazy_load_if_possible("aurora"),
                   lazy_load_if_possible("ikea"),
+                  lazy_load_if_possible("ay204z"),
                   lazy_load_if_possible("tuya"),
                   lazy_load_if_possible("tuya-vibration"),
                   lazy_load_if_possible("gatorsystem"),

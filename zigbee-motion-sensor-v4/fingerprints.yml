@@ -531,6 +531,11 @@ zigbeeManufacturer:
     manufacturer: HOBEIAN
     model: ZG-204Z
     deviceProfileName: motion-battery
+  - id: "AOYAN/AY-204Z"
+    deviceLabel: AOYAN AY-204Z Motion Sensor
+    manufacturer: AOYAN
+    model: AY-204Z
+    deviceProfileName: motion-battery-ay204z
 
   #Tuya TS0202 generic
   - id: "TS0202/Motion Sensor"
